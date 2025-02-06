@@ -18,7 +18,7 @@
 - **WebView2 Runtime**: Убедитесь, что установлен [WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
 
 ## Лицензия
-Проект распространяется под лицензией **TULA**. Подробнее см. в файле [LICENSE](https://github.com/cyberhippie/deep/blob/main/LICENSE).
+Проект распространяется под лицензией **TULA**. Подробнее см. в файле [LICENSE](https://github.com/cyberhippie/deep/blob/master/LICENSE).
 
 ## Связь
 - **Issues**: [Создать Issue](https://github.com/cyberhippie/deep/issues).

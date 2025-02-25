@@ -1,12 +1,16 @@
 TULA (Take and Use License Agreement)
+
 1. Permissions
-You may:  
-- Use the deep application on any number of devices.
-- Modify the source code for personal or commercial purposes.
-- Distribute the application or modified versions.
+  You are free to:
+  - Use the deep application on any number of devices.
+  - Modify the source code for personal or commercial purposes.
+  - Distribute the application or modified versions.
 
 2. Copyright Disclaimer
-The author waives exclusive copyright on the deep application. You can use, modify, and distribute the project without restrictions.
+  The author waives exclusive copyright on the deep application. You are free to use, modify, and distribute the project without   restrictions, provided that you include the original copyright notice and license terms in any distributed copies or substantial portions of the software.
 
 3. Disclaimer of Warranty
-The application is provided "as is." The author is not liable for any losses or issues.
+  The application is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+4. Attribution
+  If you distribute modified versions of the software, you must clearly indicate that the original work has been modified and provide a link to the original project repository.

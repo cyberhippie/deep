@@ -1,6 +1,6 @@
 # deep
 
-**deep** is a minimalist application for Windows that provides quick and convenient access to **chat.deepseek.com** through an integrated browser based on **WebView2**.
+**deep** is a minimalist application for Windows that provides quick and convenient access to **Deepseek** through an integrated browser based on **WebView2**.
 
 ## Features
 - Minimalist interface.
